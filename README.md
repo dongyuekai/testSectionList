@@ -1,0 +1,2 @@
+# testSectionList
+这个项目是一个React-Native的项目 主要是对RN中的一个分组数据列表的封装 具体的代码可以下载后run在各端试一下
